@@ -54,6 +54,6 @@ export default tseslint.config({
 })
 ```
 
-**"Author"** 
+**Author** 
 
 Created by Oksana Biryukova.
