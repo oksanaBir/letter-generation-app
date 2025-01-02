@@ -1,0 +1,28 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+  ],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "rootDir": "./src"
+  },
+  "include": [
+    "src/modules/assets/**/*.svg",
+    "declaration.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.tsx",
+    "src/**/*.ts",
+    "dist/**"
+  ]
+}

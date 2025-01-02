@@ -1,0 +1,34 @@
+[
+  {
+    "name": "username",
+    "label": "Username",
+    "placeholder": "Enter your name"
+  },
+  {
+    "name": "company",
+    "label": "Company",
+    "placeholder": "Enter company name"
+  },
+  {
+    "name": "position",
+    "label": "Position",
+    "placeholder": "Enter position",
+    "description": "The vacancy you are applying for."
+  },
+  {
+    "name": "desiredSalary",
+    "label": "Desired Salary",
+    "placeholder": "Enter the amount"
+  },
+  {
+    "name": "skills",
+    "label": "Skills",
+    "placeholder": "Describe your strengths and main tasks"
+  },
+  {
+    "name": "additionalSkills",
+    "label": "Additional Skills",
+    "placeholder": "Write what you encountered at work in addition to the main tasks and skills",
+    "description": "For example, analytical thinking, leadership."
+  }
+]

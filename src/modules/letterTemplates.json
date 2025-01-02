@@ -1,0 +1,17 @@
+{
+  "default": {
+    "title": "Dear {company} Team,",
+    "text": "I hope this message finds you well. I am writing to express my interest in the {position} role at your esteemed company {company}. Here is a brief overview of my qualifications: Core Skills: {skills}. Additional Skills: {additionalSkills}. My desired salary for this position is {desiredSalary}. I would be delighted to contribute to your team and discuss how my experience aligns with your company's goals. I'll be happy to discuss in more detail.",
+    "regards": "Thank you for considering my application. Best regards, {username}."
+  },
+  "large": {
+    "title": "Dear {company} Team!",
+    "text": "I am extremely interested in your vacancy {position}. I have been following your development in the market for a long time and it seems to me that our values ​​coincide, so I would like to contribute to your company.\n\nIf we talk about me, then {skills}. Also from interesting experience: {additionalSkills}. My salary expectations: {desiredSalary}.",
+    "regards": "Thank you for your attention and best regards, {username}."
+  },
+  "small": {
+    "title": "Dear {company} Team!",
+    "text": "I would like to apply for a role {position} in your company {company}. About me: {skills}. Also from the additional skills that I had the opportunity to use during work: {additionalSkills}.Desired salary: {desiredSalary}.I will be glad to cooperate with you and provide feedback!",
+    "regards": "I will be glad to cooperate with you and provide feedback! Best regards {username}."
+  }
+}
