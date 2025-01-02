@@ -15,7 +15,7 @@ function List() {
         <Card key={letter.id} card={letter} />
       ))}
       <div className="h-64 w-full p-5 bg-gray-200 flex justify-center items-center rounded-md shadow-lg">
-        <button disabled={isLimitOver} onClick={modal.open} className="flex justify-center items-center">
+        <button disabled={isLimitOver} onClick={modal.open} className="flex justify-center items-center bg-gray-200">
           <img
             src={plus}
             alt="Remove Icon"

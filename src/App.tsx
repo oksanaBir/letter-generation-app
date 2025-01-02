@@ -1,6 +1,5 @@
 import MainPage from './pages/MainPage';
 import AddLetterModal from './pages/AddLetterModal';
-// import './index.css'; 
 import { RouterProvider, createBrowserRouter, Navigate } from 'react-router';
 
 const router = createBrowserRouter([
